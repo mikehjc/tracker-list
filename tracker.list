@@ -1,0 +1,4 @@
+udp://tracker-udp.ytcodecs.com:80/announce
+https://tracker-http.ytcodecs.com:443/announce
+udp://tracker.openbittorrent.com:80/announce
+udp://tracker.opentrackr.org:1337/announce
